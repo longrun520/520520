@@ -1,0 +1,28 @@
+https://github.com/longrun520/8888.git
+
+https://github.com/longrun520/8888.git
+
+
+
+git config --global user.name "longrun520"
+
+git config --global user.email "aa271484622@gmail.com"
+
+git clone https://github.com/longrun520/8888.git
+
+
+
+
+ssh-keygen -t rsa -C "aa271484622@gmail.com"
+
+git remote add origin git@github.com:longrun520/999999.git
+
+
+
+
+
+
+
+
+
+
